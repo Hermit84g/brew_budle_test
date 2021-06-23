@@ -5,3 +5,5 @@ test for installing multiple sources from brew_file
 git cloneしたディレクトリで
 ```brew bundle```
 するだけでよいのではないかと
+ファイル名を指定する場合は
+```brew bundle --file <File Name>```

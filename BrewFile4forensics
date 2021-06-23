@@ -7,3 +7,4 @@ cask 'db-browser-for-sqlite'
 cask 'hex-fiend'
 brew 'volatility'
 cask 'disk-arbitrator'
+
